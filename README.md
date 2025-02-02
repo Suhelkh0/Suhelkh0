@@ -61,7 +61,7 @@ I'm passionate about **building scalable applications, AI-powered solutions, and
 ### 🚀 **[Earth Keepers - Gamified Trash Collection App](https://github.com/Suhelkh0/EarthKeepers)**
 A machine-learning-powered mobile app that gamifies trash collection using **YOLOv8**, **MediaPipe**, **Kotlin**, **Firebase**, **XML**
 
-### ☁️ **[Cloud Computing City](https://github.com/Suhelkh0/Cloud-Computing-City)**
+### ☁️ **[Cloud Computing City Game](https://github.com/Suhelkh0/Cloud-Computing-City-Game)**
 An **educational cloud computing game** designed to teach users about cloud concepts through interactive gameplay.  
 **Tech Stack:** HTML, CSS, JavaScript, Firebase, Python  
 
