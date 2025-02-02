@@ -65,9 +65,17 @@ A machine-learning-powered mobile app that gamifies trash collection using **YOL
 An **educational cloud computing game** designed to teach users about cloud concepts through interactive gameplay.  
 **Tech Stack:** HTML, CSS, JavaScript, Firebase, Python  
 
+### 💰 **[MultiCurrency HD Wallet](https://github.com/Suhelkh0/Multicurrency-HD-Wallet)**
+A **cryptocurrency wallet** supporting Ethereum and Polygon transactions, with balance tracking and account restoration via seed phrases.  
+**Tech Stack:** React.js, Web3.js, Infura API  
+
+### 🔗 **[EKrut - Smart Food Ordering System](https://github.com/Suhelkh0/EKrut)**
+A **cloud-based food ordering system** that allows customers to order meals online or onsite using smart terminals.  
+**Tech Stack:** Java, JavaFX, MySQL, TCP/IP  
+
 ### ✅ **[TaskApp - Task Management System](https://github.com/Suhelkh0/TaskApp)**
 A **task management system** with task folders, managers, users, and **progress-tracking charts**.  
-**Tech Stack:** React.js, Node.js, MongoDB, Chart.js  
+**Tech Stack:** React.js, Node.js, MongoDB, Chart.js 
 
 ---
 
